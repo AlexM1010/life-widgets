@@ -13,6 +13,11 @@ Part of the hub-and-spoke architecture:
 
 - **TodaysPlanWidget** - Shows current/next task from "Life Manager - Today's Plan" calendar
 
+## Setup
+
+1. Copy `local.properties.example` to `local.properties`
+2. Set your Android SDK path in `local.properties`
+
 ## Usage
 
 Include via Gradle composite build in your Android project:
